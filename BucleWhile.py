@@ -1,6 +1,5 @@
 # Bucle while
 
-
 import math
 
 numero = int(input("digite un numero: "))
